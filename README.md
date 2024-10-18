@@ -1,4 +1,4 @@
-- 👋 Hi, I’m muhammed
+- 👋 Hi, I’m Muhammed Khan
 - 👀 I’m interested learning programming
 - 🌱 I’m currently learning full-stack development
 - 💞️ I’m looking to collaborate on ...
